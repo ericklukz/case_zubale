@@ -13,4 +13,6 @@ Exercícios:
    ![Tabela dinâmica](/tabeladinamica.PNG)
 
 5) Link da tabela: <a href=“https://docs.google.com/spreadsheets/d/1-ifVPIunPuL77yYwMs4wHPFy8I1BlQ90n40KC0fsvg8/edit?usp=sharing“>Variação</a>
-   ![Variação](path/to/file)
+   
+   
+   ![Variação](variacao.PNG)
