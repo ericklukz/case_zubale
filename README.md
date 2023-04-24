@@ -1,4 +1,4 @@
-#Case - Vaga de estágio Zubale
+Case - Vaga de estágio Zubale
 
 Exercícios:
 1) Foram encontradas 3088 vendas únicas no mês de dezembro da loja Super Baratão. (CONT.NÚM com filtros)
