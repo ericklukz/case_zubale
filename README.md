@@ -7,12 +7,12 @@ Exercícios:
 
 3) 40 usuários fizeram pedidos no mês de dezembro na loja Mercado Preço Baixo. (Filtro)
 
-4) Link da tabela: <a href=“https://docs.google.com/spreadsheets/d/1DtrKAbY0L-BRFvURmNISzpV6HLCvnyBVDb-3EN5-Rpk/edit?usp=sharing“>Tabela</a>
+4) Link da tabela: https://docs.google.com/spreadsheets/d/1DtrKAbY0L-BRFvURmNISzpV6HLCvnyBVDb-3EN5-Rpk/edit?usp=sharing“
    
    
    ![Tabela dinâmica](/tabeladinamica.PNG)
 
-5) Link da tabela: <a href=“https://docs.google.com/spreadsheets/d/1-ifVPIunPuL77yYwMs4wHPFy8I1BlQ90n40KC0fsvg8/edit?usp=sharing“>Variação</a>
+5) Link da tabela: https://docs.google.com/spreadsheets/d/1-ifVPIunPuL77yYwMs4wHPFy8I1BlQ90n40KC0fsvg8/edit?usp=sharing“
    
    
    ![Variação](/variacao.PNG)
